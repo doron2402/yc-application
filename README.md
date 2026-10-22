@@ -1,6 +1,10 @@
 # yc-application
 
-A [Claude Code](https://claude.com/claude-code) skill with one goal: **get you into Y Combinator.**
+A [Claude Code](https://claude.com/claude-code) skill that helps founders **apply to Y Combinator with the best application they can honestly write.**
+
+- **Better applications:** good teams shouldn't be rejected for a bad write-up.
+- **More founders applying:** one question at a time, plain language, so the form stops feeling intimidating.
+- **Respect for the partners' time:** YC partners put huge care into reading thousands of applications. Clear, short, honest, number-backed answers make their job easier, and that's what helps you most too.
 
 It interviews you like a co-founder who has read a thousand YC applications: **at least 20 questions, one at a time, no half-answers.** Every key answer needs a name, a number, a date, or something a real person did. Then it writes every answer on the live YC form.
 

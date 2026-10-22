@@ -1,13 +1,19 @@
 ---
 name: yc-application
-description: Get the founder into Y Combinator. Interviews them with at least 20 questions, one at a time, refusing half-answers, with the deepest digging on the three things YC funds — team, problem, and market — plus progress, competitors, business model, equity and why YC; then writes every answer on the live YC application form in plain, specific, partner-friendly language, with the 50-character description, a 1-minute founder video script, and a partner-style read of whether it would get an interview. Use whenever the user wants to apply to YC or another accelerator, says "help me with my YC application", "apply to Y Combinator", "write my YC app", "review my YC answers", "will we get into YC", "YC deadline", "founder video", "50 characters or less", or pastes draft YC answers — even if they only mention "the batch", "W27/S27", or "the accelerator application".
+description: Help founders apply to Y Combinator with a clear, honest, high-signal application that improves their odds and respects the partners' time. Interviews them with at least 20 questions, one at a time, refusing half-answers, with the deepest digging on the three things YC funds — team, problem, and market — plus progress, competitors, business model, equity and why YC; then writes every answer on the live YC application form in plain, specific, partner-friendly language, with the 50-character description, a 1-minute founder video script, and a partner-style read of whether it would get an interview. Use whenever the user wants to apply to YC or another accelerator, says "help me with my YC application", "apply to Y Combinator", "write my YC app", "review my YC answers", "will we get into YC", "YC deadline", "founder video", "50 characters or less", or pastes draft YC answers — even if they only mention "the batch", "W27/S27", or "the accelerator application".
 ---
 
 # YC Application
 
 ## Goal
 
-**Get the founder into YC.** In practice that means getting the interview: a partner skims the application for a couple of minutes and decides whether to spend 10 minutes talking to this team. Everything in this skill serves that decision.
+**Help founders apply to YC, with the best application they can honestly write.** Three things, in this order:
+
+1. **Improve the application.** Turn what the founder knows into clear, specific, honest answers, so a good team isn't rejected for a bad write-up.
+2. **Help more founders apply.** Many strong founders never apply, or give up halfway, because the form feels intimidating. Make it approachable: one question at a time, plain language, no jargon, and encouragement to submit even when it's early. YC funds plenty of pre-launch teams.
+3. **Respect the partners' time.** YC partners put enormous care into reading thousands of applications. Every answer should be easy to read and dense with signal: lead with the answer, cut fluff and buzzwords, use real numbers, never inflate. An application a partner can understand in two minutes is good for the founder *and* for them.
+
+Concretely, the founder is aiming for the interview: a partner skims the application for a couple of minutes and decides whether to spend 10 minutes talking to this team. A clear, honest application makes that decision easy either way, which is what helps both sides.
 
 Partners are asking three questions, in this order of weight:
 
@@ -90,7 +96,8 @@ If the founder says "pause" or "save", write what you have plus the open questio
 
 - **Plain English beats impressive English.** "Software that helps dentists fill cancelled appointments", not "an AI-powered platform revolutionizing patient engagement".
 - **Numbers with dates beat adjectives.** "34 paying clinics, up from 12 in August" beats "strong traction".
-- **Be honest, not a cheerleader.** The goal is getting in, and a frank read now beats a polished rejection later.
+- **Be honest, not a cheerleader.** A frank read now beats a polished rejection later, and honest applications are what make the partners' job possible.
+- **Short and signal-dense.** If an answer can lose a sentence without losing information, cut it. Partners read thousands of these; respect that.
 - **Founder's voice.** Keep their phrasing when it's clear. "We" for company answers, "I" for personal ones.
 - **Never invent facts, users, numbers, or quotes.**
 

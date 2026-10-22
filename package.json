@@ -1,7 +1,7 @@
 {
   "name": "yc-application",
   "version": "1.0.0",
-  "description": "A Claude Code skill that helps you get into Y Combinator: it interviews you with 20+ questions (no half-answers), digs deepest on team, problem and market, and writes every answer on the live YC application form, plus the founder video script and a partner-style read.",
+  "description": "A Claude Code skill that helps founders write a clear, honest, high-signal Y Combinator application that respects the partners' time: it interviews you with 20+ questions (no half-answers), digs deepest on team, problem and market, and writes every answer on the live YC application form, plus the founder video script and a partner-style read.",
   "bin": {
     "yc-application": "bin/install.js"
   },
