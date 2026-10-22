@@ -68,8 +68,6 @@ Start a new Claude Code session and say something like:
 
 Modes: **Guided interview**, **Context dump** (paste your deck or old application), **Review my draft**, or **Just one part**. Say "pause" any time to save progress.
 
-Pairs well with [`doron-startup-co-founder`](https://www.npmjs.com/package/doron-startup-co-founder): its Startup Plan feeds straight into this skill.
-
 ## Files
 
 - `SKILL.md`: how the session runs
