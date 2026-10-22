@@ -1,0 +1,39 @@
+{
+  "name": "yc-application",
+  "version": "1.0.0",
+  "description": "A Claude Code skill that helps you get into Y Combinator: it interviews you with 20+ questions (no half-answers), digs deepest on team, problem and market, and writes every answer on the live YC application form, plus the founder video script and a partner-style read.",
+  "bin": {
+    "yc-application": "bin/install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "references",
+    "bin"
+  ],
+  "keywords": [
+    "claude",
+    "claude-code",
+    "claude-skill",
+    "agent-skill",
+    "y-combinator",
+    "yc",
+    "yc-application",
+    "accelerator",
+    "startup",
+    "founder",
+    "fundraising"
+  ],
+  "author": "Doron Segal (https://github.com/doron2402)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doron2402/yc-application.git"
+  },
+  "homepage": "https://github.com/doron2402/yc-application#readme",
+  "bugs": {
+    "url": "https://github.com/doron2402/yc-application/issues"
+  },
+  "engines": {
+    "node": ">=16.7"
+  }
+}
