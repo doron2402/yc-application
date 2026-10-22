@@ -25,6 +25,22 @@ You get:
 
 It was written by a founder whose company (Per Diem) went through YC W21, and it includes that accepted application, annotated, as a reference.
 
+## How it works
+
+1. **Kickoff:** what you're building, which batch, and a mode: guided interview, context dump (paste your deck or an old application), review my draft, or just one part.
+2. **Interview:** 20+ questions, one at a time, in the order YC weighs them: **Team → Problem → Product → Progress → Market → Equity → Why YC**. Vague answers get a sharper follow-up ("Name one.", "What's the number?", "What did they do?").
+3. **Readiness check:** Team, Problem, and Market each get 🟢 / 🟡 / 🔴 before anything is written, with what to fix before the deadline.
+4. **Draft:** every field on the live form, in YC's own wording, saved to `yc-application-<company>.md`.
+5. **Partner Read:** a skeptical 2-minute read of your application, plus an offer to rehearse the 10-minute interview.
+
+## Example: the 50-character description
+
+| Before | After |
+|---|---|
+| "Per Diem is a subscription ecommerce platform." | "Subscriptions for local shops, no code needed" (45) |
+
+The "after" says who it's for and doesn't spend characters on the company name.
+
 ## Install
 
 ```bash
@@ -64,6 +80,10 @@ Pairs well with [`doron-startup-co-founder`](https://www.npmjs.com/package/doron
 - `references/application-template.md`: the output template
 
 YC changes its form between batches. If yours looks different, paste it in and the skill will follow it.
+
+## Contributing
+
+Issues and PRs welcome, especially when YC changes the form. Update `references/yc-form.md` and open a PR.
 
 Not affiliated with or endorsed by Y Combinator.
 
